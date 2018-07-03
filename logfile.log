@@ -1,0 +1,43 @@
+2018-07-03 21:14:51,776 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:18:05,915 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:19:22,390 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:21:18,926 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:21:56,002 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:23:16,310 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:25:21,140 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:26:27,623 ERROR [Log] Not able to open the browser : chrome | unknown error: failed to change window state to normal, current state is maximized
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'DRN', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=accept, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\SHIVAR~1\AppData\Local\Temp\scoped_dir6744_10978}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=accept, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6d9d769b6104072f3ffbde4592084d29 
+2018-07-03 21:34:07,882 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:34:15,830 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:34:23,422 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:35:57,772 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:36:05,711 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:36:13,214 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 21:36:20,139 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 22:37:34,178 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 22:37:42,576 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 22:37:49,925 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 22:37:57,310 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 22:53:09,816 WARN  [ResponseProcessCookies] Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 03 Jul 2038 17:23:45 -0000; secure; HttpOnly". Invalid 'expires' attribute: Sat, 03 Jul 2038 17:23:45 -0000 
+2018-07-03 22:53:12,391 WARN  [ResponseProcessCookies] Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 03 Jul 2038 17:23:48 -0000; secure; HttpOnly". Invalid 'expires' attribute: Sat, 03 Jul 2038 17:23:48 -0000 
+2018-07-03 22:53:12,449 ERROR [Log] Not able to open the browser : firefox | javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target 
+2018-07-03 23:05:15,981 WARN  [ResponseProcessCookies] Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 03 Jul 2038 17:35:52 -0000; secure; HttpOnly". Invalid 'expires' attribute: Sat, 03 Jul 2038 17:35:52 -0000 
+2018-07-03 23:05:18,472 WARN  [ResponseProcessCookies] Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 03 Jul 2038 17:35:54 -0000; secure; HttpOnly". Invalid 'expires' attribute: Sat, 03 Jul 2038 17:35:54 -0000 
+2018-07-03 23:05:18,574 ERROR [Log] Not able to open the browser : firefox | javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target 
+2018-07-03 23:13:51,732 WARN  [ResponseProcessCookies] Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 03 Jul 2038 17:44:27 -0000; secure; HttpOnly". Invalid 'expires' attribute: Sat, 03 Jul 2038 17:44:27 -0000 
+2018-07-03 23:13:54,460 WARN  [ResponseProcessCookies] Invalid cookie header: "Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Sat, 03 Jul 2038 17:44:30 -0000; secure; HttpOnly". Invalid 'expires' attribute: Sat, 03 Jul 2038 17:44:30 -0000 
+2018-07-03 23:13:54,516 ERROR [Log] Not able to open the browser : firefox | javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target 
+2018-07-03 23:16:08,836 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 23:16:08,896 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 23:16:08,896 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 23:16:08,933 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 23:16:08,933 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 23:16:08,965 ERROR [Log] Not able to Close the Browser : null 
+2018-07-03 23:16:08,965 ERROR [Log] Not able to Close the Browser : null 
